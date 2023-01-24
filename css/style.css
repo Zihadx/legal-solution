@@ -12,3 +12,24 @@
 .private-gradient{
     background: linear-gradient(180deg, #ebebeb 0%, rgba(17, 17, 17, 0) 100%);
 }
+.clients-img-1{
+    background-image: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%), url(../images/slider-1.jpg);
+    height: 75vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+.clients-img-2{
+    background-image: linear-gradient(180deg, #111010 0%, rgba(17, 17, 17, 0) 100%), url(../images/slider-2.jpg);
+    height: 75vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+.clients-img-3{
+    background-image: linear-gradient(180deg, #101010 0%, rgba(17, 17, 17, 0) 100%), url(../images/slider-3.jpg);
+    height: 75vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
