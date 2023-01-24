@@ -39,9 +39,7 @@
     border-radius: 50%;
     border:1px solid #ebebeb;
 }
-/* .accordion .accordion-item{
-    background-color: rgb(185, 187, 187);
-    border-color: transparent;
-    margin-bottom: 30px;
-    border-radius: 10px;
-} */
+.contact-bg{
+    color: #111010;
+    background-color: #e9ecef;
+}
